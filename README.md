@@ -5,7 +5,7 @@
 
    ![Badge nivel de programación](https://img.shields.io/badge/STATUS-APRENDIENDO-orange)
 
-- 🌱 I’m currently learning **Kotlin** and **SPRING**
+- 🌱 I’m currently learning **ZKOSS**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
