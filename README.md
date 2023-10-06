@@ -5,11 +5,11 @@
 
    ![Badge nivel de programación](https://img.shields.io/badge/STATUS-APRENDIENDO-orange)
 
-- 🌱 I’m currently learning **ZKOSS**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java and Kotlin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
