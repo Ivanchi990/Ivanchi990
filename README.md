@@ -5,7 +5,7 @@
 
    ![Badge nivel de programación](https://img.shields.io/badge/STATUS-APRENDIENDO-orange)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Matlab**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
