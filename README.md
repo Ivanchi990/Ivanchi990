@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github](github)
 
-- 💬 Ask me about **Java and Kotlin**
+- 💬 Ask me about **Java, Kotlin, SQL or Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
