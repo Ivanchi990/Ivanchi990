@@ -25,4 +25,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ivanchi990"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ivanchi990" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/devancode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devancode" /></a></p><br><br>
