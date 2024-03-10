@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivanchi990</h1>
-<h3 align="center">I'm a midsenior Java developer, currently focused developing Kotling apps. \nA passionate backend developer from Spain</h3>
+<h3 align="center">I'm a midsenior Java developer, currently focused developing Kotling apps. A passionate backend developer from Spain</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Ivanchi990&icon=0&color=0)](https://visitcount.itsvg.in)
 
