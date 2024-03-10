@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Ivanchi990&icon=0&color=0)](https://visitcount.itsvg.in)
 
-   ![Badge nivel de programación](https://img.shields.io/badge/STATUS-APRENDIENDO-orange)
+   ![Badge nivel de programación](https://img.shields.io/badge/STATUS-STUDYING-orange)
 
 - 🌱 I’m currently learning **Matlab**
 
